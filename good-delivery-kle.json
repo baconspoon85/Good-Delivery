@@ -1,0 +1,136 @@
+[
+  {
+    "name": "Good Delivery",
+    "author": "baconspoon"
+  },
+  [
+    "Q",
+    "W",
+    "E",
+    "R",
+    "T",
+    "Y",
+    "U",
+    "I",
+    "O",
+    "P"
+  ],
+  [
+    {
+      "w": 1.25
+    },
+    "A",
+    "S",
+    "D",
+    "F",
+    "G",
+    "H",
+    "J",
+    "K",
+    {
+      "w": 1.75
+    },
+    "L"
+  ],
+  [
+    {
+      "w": 1.75
+    },
+    "Z",
+    "X",
+    "C",
+    "V",
+    "B",
+    "N",
+    "M",
+    "<i class='kb kb-Arrows-Up'></i>",
+    {
+      "w": 1.25
+    },
+    ">\n."
+  ],
+  [
+    "Hyper",
+    "Super",
+    "Meta",
+    {
+      "w": 2
+    },
+    "\n\n\n2u",
+    {
+      "w": 2
+    },
+    "\n\n\n2u",
+    "<i class='kb kb-Arrows-Left'></i>",
+    "<i class='kb kb-Arrows-Down'></i>",
+    "<i class='kb kb-Arrows-Right'></i>"
+  ],
+  [
+    {
+      "y": 0.25,
+      "g": true,
+      "a": 7
+    },
+    "",
+    "",
+    "",
+    {
+      "g": false,
+      "a": 4,
+      "w": 4
+    },
+    "\n\n\n4u",
+    {
+      "g": true,
+      "a": 7
+    },
+    "",
+    "",
+    ""
+  ],
+  [
+    {
+      "y": 0.25
+    },
+    "",
+    "",
+    {
+      "g": false,
+      "a": 4,
+      "w": 6
+    },
+    "\n\n\n6u Centered",
+    {
+      "g": true,
+      "a": 7
+    },
+    "",
+    ""
+  ],
+  [
+    {
+      "y": 0.25
+    },
+    "",
+    {
+      "g": false,
+      "a": 4,
+      "w": 8
+    },
+    "\n\n\n8u",
+    {
+      "g": true,
+      "a": 7
+    },
+    ""
+  ],
+  [
+    {
+      "y": 0.25,
+      "g": false,
+      "a": 4,
+      "w": 10
+    },
+    "\n\n\n10u w/ 7u and 8u Stabilizer Support"
+  ]
+]
