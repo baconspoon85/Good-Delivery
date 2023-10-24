@@ -9,6 +9,10 @@ Good Delivery is a pair of 10x4u PCBs featuring:
 	-Centered USB
 	-Gummy O-ring mount
 
+![alt text](https://github.com/baconspoon85/Good-Delivery/blob/main/good-delivery-kle.png?raw=true)
+![alt text](https://github.com/baconspoon85/Good-Delivery/blob/main/good-delivery-standard-stagger-pcb-front.jpg?raw=true)
+![alt text](https://github.com/baconspoon85/Good-Delivery/blob/main/good-delivery-standard-stagger-pcb-back.jpg?raw=true)
+
 Firmware is still in development. I am going to proto these and test them to make sure they work. Until then, I don't recommend making them.
 If you feel like helping with firmware because you are awesome, here is the matrix and pin assignments in a simple format so you don't have to decipher the PCB and schematic:
 http://www.keyboard-layout-editor.com/#/gists/d01965f6acaf51b389eb0b2dfcfd9f7e
