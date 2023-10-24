@@ -9,7 +9,7 @@ Good Delivery is a pair of 10x4u PCBs featuring:
 	-Centered USB
 	-Gummy O-ring mount
 
-!KLE(https://github.com/baconspoon85/Good-Delivery/blob/main/good-delivery-kle.png?raw=true)
+[KLE](https://github.com/baconspoon85/Good-Delivery/blob/main/good-delivery-kle.png?raw=true)
 !Standard Stagger PCB Front(https://github.com/baconspoon85/Good-Delivery/blob/main/good-delivery-standard-stagger-pcb-front.jpg?raw=true)
 !Standard Stagger PCB Back(https://github.com/baconspoon85/Good-Delivery/blob/main/good-delivery-standard-stagger-pcb-back.jpg?raw=true)
 
