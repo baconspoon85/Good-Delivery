@@ -1,7 +1,8 @@
 Good Delivery is a pair of 10x4u PCBs featuring:
 -Standard stagger layout
+	Proto built and tested. Fully functional.
 -Alpha stagger layout
-	http://www.keyboard-layout-editor.com/#/gists/8a5c717805a903f190aadd79cc0c0eab
+	Proto pending.
 -RP2040 MCU
 -Hotswap MX support (w/ option to solder the corner switches for better o-ring stability with 3-pin switches)
 -Solder Alps support
