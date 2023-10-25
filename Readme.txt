@@ -12,8 +12,6 @@ Good Delivery is a pair of 10x4u PCBs featuring:
 ![good-delivery-standard-stagger-pcb-front](https://github.com/baconspoon85/Good-Delivery/assets/101666389/99a09ca7-434d-4e1d-879b-b869bf8ba8ae)
 ![good-delivery-standard-stagger-pcb-back](https://github.com/baconspoon85/Good-Delivery/assets/101666389/d6d0e19b-0484-4988-a658-f205597cc612)
 ![good-delivery-kle](https://github.com/baconspoon85/Good-Delivery/assets/101666389/c3fd482b-1226-428b-a14e-262c71d22ac8)
+![matrix and pinout](http://www.keyboard-layout-editor.com/#/gists/d01965f6acaf51b389eb0b2dfcfd9f7e)
 
-Firmware is still in development. I am going to proto these and test them to make sure they work. Until then, I don't recommend making them.
-If you feel like helping with firmware because you are awesome, here is the matrix and pin assignments in a simple format so you don't have to decipher the PCB and schematic:
-http://www.keyboard-layout-editor.com/#/gists/d01965f6acaf51b389eb0b2dfcfd9f7e
-ummm... vial please?
+Vial firmware supporting both the standard columnar stagger and alpha stagger is complete, courtesy of Flamwenco! Big thank you. Check his Cutiepie repo, also forked on my page.
